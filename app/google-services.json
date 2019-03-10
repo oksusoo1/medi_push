@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "604793213746",
+    "firebase_url": "https://samplepush-b963e.firebaseio.com",
+    "project_id": "samplepush-b963e",
+    "storage_bucket": "samplepush-b963e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604793213746:android:a266fee7aab02062",
+        "android_client_info": {
+          "package_name": "androidtown.org.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604793213746-emp0t9kjctkb9gl6femoegf5csvgk9tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMAmSUHxzYx7lU40rBOKm3t9TC1gJ7kTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
